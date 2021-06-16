@@ -4,6 +4,9 @@ from flask import Flask, render_template, request
 
 app = Flask(__name__)
 
+# Test 1
+# Test 2
+# Test 3
 
 def get_random_quotes():
     endpoint = 'https://animechan.vercel.app/api/quotes'
