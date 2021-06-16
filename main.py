@@ -5,6 +5,7 @@ from flask import Flask, render_template, request
 app = Flask(__name__)
 
 # Test 1
+# Test 2
 
 
 def get_random_quotes():
